@@ -10,6 +10,9 @@ ID-> if null, ID is set -1
 Assumption:
 Cell cannot divide into more than two.
 
+HowtoCall:
+Run from the Fiji's script editor.
+
 
 
 
