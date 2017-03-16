@@ -195,4 +195,4 @@ for id in model.getTrackModel().trackIDs(True):
 				sys.exit(3)
 
 
-
+out_f.close()
