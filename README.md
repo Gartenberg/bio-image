@@ -7,6 +7,9 @@ X Y Z T ID Mother_ID Daughter1_ID Daughter2_ID #ofEdge
 T->1 start
 ID-> if null, ID is set -1
 
+Assumption:
+Cell cannot divide into more than two.
+
 
 
 
